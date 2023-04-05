@@ -8,7 +8,7 @@ Desenvolvido utilizando _HTML e CSS_.
   <summary><strong>Rodando o projeto localmente‼️ </strong></summary><br />
   
   1. Clone o repositório
-   - `git clone git@github.com:AmandaPtela/trybewallet.git`
+   - `git clone git@github.com:AmandaPtela/project-lessons-learned.git`
     
   2. Instale as dependências
   - Instale as dependências:
